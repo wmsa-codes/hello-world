@@ -1,6 +1,6 @@
 # hello-world
 
-Hello you,
+Hey you,
 The person watching this
 take a second
 stop worrying about if your going to get that notification
