@@ -7,6 +7,6 @@
         <img src="https://img.shields.io/badge/-blue?style=flat-square&logo=linkedin" /></a>
     <a href="https://twitter.com/wmsacodes" alt="Twitter">
         <img src="http://img.shields.io/badge/-1ca0f1?style=social&logo=twitter&logoColor=blue" /></a>
-    <a href="https://ahsankhan.me" alt="website">
+    <a href="https://wmsa.tech" alt="website">
         <img src="https://img.shields.io/badge/-wmsa.tech-242424?style=flat-square&logo=circle&logoColor=White" /></a>
 </p>
